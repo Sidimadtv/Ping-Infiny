@@ -20,7 +20,6 @@ jobs:
           # Add your InfinityFree URLs here
           URLS=(
             "https://sidimadtv.free.nf"
-            "https://sidimadtv.wuaze.com"
             "https://sidimadweb.zya.me"
             "https://sidimadtv.zya.me"
             "https://sidimad-tv.rf.gd"
